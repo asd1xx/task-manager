@@ -56,3 +56,7 @@ Perform the following steps in sequence:
     ```bash
     docker-compose down
     ```
+
+## API Documentation
+
+https://github.com/asd1xx/task-manager/blob/main/api-documentation.md
