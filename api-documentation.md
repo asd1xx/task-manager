@@ -5,7 +5,7 @@
 Author: Viacheslav Evseev.  
 Task: Implement a task manager where each user can create, view, update and delete their tasks.
 
-## Route
+## Routes
 
 ### /register
 User registration  

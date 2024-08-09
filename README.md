@@ -5,7 +5,7 @@
 
 ## About the project
 
-The system has users, each of whom can create, view, update and delete their tasks.
+The system has users, each of whom can create, view, update and delete their tasks.  
 The system supports the following actions:
 - View a list of all user tasks.
 - Create a new task.
