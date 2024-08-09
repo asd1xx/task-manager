@@ -2,37 +2,37 @@
 
 ## Basic information
 
-Author: Viacheslav Evseev. 
+Author: Viacheslav Evseev.  
 Task: Implement a task manager where each user can create, view, update and delete their tasks.
 
 ## Route
 
 ### /register
-User registration
+User registration  
 method: POST
 
 ### /login
-User authorization
+User authorization  
 method:
 
 ### /logout
-User logout
+User logout  
 method:
 
 ### /task
-Authorized user tasks
+Authorized user tasks  
 method:
 
 ### /task/new
-Create a new task
+Create a new task  
 method:
 
 ### /task/{id}
-View task information
+View task information  
 method:
 
 ### /task/{id}/edit
-Editing a task
-Deleting a task
-Mark a task as completed
+Editing a task  
+Deleting a task  
+Mark a task as completed  
 method:
