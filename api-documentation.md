@@ -13,26 +13,28 @@ method: POST
 
 ### /login
 User authorization  
-method:
+method: POST
 
 ### /logout
 User logout  
-method:
+method: POST
 
 ### /task
 Authorized user tasks  
-method:
+method: GET
 
 ### /task/new
 Create a new task  
-method:
+method: POST
 
 ### /task/{id}
 View task information  
-method:
+method: GET
 
 ### /task/{id}/edit
 Editing a task  
-Deleting a task  
-Mark a task as completed  
-method:
+method: PUT
+
+### /task/{id}
+Deleting a task   
+method: DELETE
