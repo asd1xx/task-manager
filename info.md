@@ -1,5 +1,3 @@
-# API Documentation
-
 ## Basic information
 
 Author: Viacheslav Evseev.  
